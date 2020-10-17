@@ -12,20 +12,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="1. Multiples of 3 and 5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1. Multiples of 3 and 5.py">
+        <entry file="file://$PROJECT_DIR$/../EulerPython/1. Multiples of 3 and 5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2. Even Fibonacci numbers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2. Even Fibonacci numbers.py">
+      <file leaf-file-name="2. Even Fibonacci numbers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EulerPython/2. Even Fibonacci numbers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3. Largest prime factor.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../EulerPython/3. Largest prime factor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EratosthenesSieve.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EulerPython/Tools/EratosthenesSieve.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -45,14 +65,25 @@
       <list>
         <option value="$PROJECT_DIR$/1. Multiples of 3 and 5.py" />
         <option value="$PROJECT_DIR$/2. Even Fibonacci numbers.py" />
+        <option value="$PROJECT_DIR$/3. Largesr prime factor.py" />
+        <option value="$PROJECT_DIR$/SieveOfEratosthenes" />
+        <option value="$PROJECT_DIR$/3. Largest prime factor.py" />
+        <option value="$PROJECT_DIR$/../EulerPython/SieveOfEratosthenes" />
+        <option value="$PROJECT_DIR$/../EulerPython/Tools/SieveOfEratosthenes" />
+        <option value="$PROJECT_DIR$/../EulerPython/Tools/g.py" />
+        <option value="$PROJECT_DIR$/../EulerPython/Tools/SieveOfEratosthenes.py" />
+        <option value="$PROJECT_DIR$/../EulerPython/SieveOfEratosthenes.py" />
+        <option value="$PROJECT_DIR$/../EulerPython/Tools/hello.py" />
+        <option value="$PROJECT_DIR$/../EulerPython/Tools/EratosthenesSieve.py" />
+        <option value="$PROJECT_DIR$/../EulerPython/3. Largest prime factor.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1936" />
-    <option name="y" value="39" />
-    <option name="width" value="1934" />
-    <option name="height" value="1047" />
+    <option name="x" value="1912" />
+    <option name="y" value="-16" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -74,7 +105,12 @@
           <expand>
             <path>
               <item name="Euler Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Euler Python" type="462c0819:PsiDirectoryNode" />
+              <item name="EulerPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Euler Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EulerPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Tools" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -86,6 +122,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lkw19\Documents\Programming\EulerQuestions\EulerPython\Tools" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2. Even Fibonacci numbers">
+  <component name="RunManager" selected="Python.3. Largest prime factor">
     <configuration name="1. Multiples of 3 and 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,14 +175,71 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="2">
+    <configuration name="3. Largest prime factor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EulerPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EulerPython/3. Largest prime factor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="SieveOfEratosthenes (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EulerPython/Tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EulerPython/Tools/SieveOfEratosthenes" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="SieveOfEratosthenes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EulerPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler Python" />
+      <option name="SCRIPT_NAME" value="C:\Users\lkw19\Documents\Programming\EulerQuestions\EulerPython\Tools\SieveOfEratosthenes" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.1. Multiples of 3 and 5" />
       <item index="1" class="java.lang.String" itemvalue="Python.2. Even Fibonacci numbers" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SieveOfEratosthenes" />
+      <item index="3" class="java.lang.String" itemvalue="Python.3. Largest prime factor" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SieveOfEratosthenes (1)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.2. Even Fibonacci numbers" />
-        <item index="1" class="java.lang.String" itemvalue="Python.1. Multiples of 3 and 5" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.3. Largest prime factor" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SieveOfEratosthenes (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SieveOfEratosthenes" />
+        <item index="3" class="java.lang.String" itemvalue="Python.2. Even Fibonacci numbers" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1. Multiples of 3 and 5" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +290,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1. Multiples of 3 and 5.py">
+    <entry file="file://$PROJECT_DIR$/../EulerPython/1. Multiples of 3 and 5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -200,18 +298,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1. Multiples of 3 and 5.py">
+    <entry file="file://$PROJECT_DIR$/../EulerPython/1. Multiples of 3 and 5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. Even Fibonacci numbers.py">
+    <entry file="file://$PROJECT_DIR$/../EulerPython/2. Even Fibonacci numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EulerPython/Tools/SieveOfEratosthenes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EulerPython/Tools/g.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EulerPython/Tools/SieveOfEratosthenes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EulerPython/SieveOfEratosthenes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EulerPython/Tools/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EulerPython/Tools/EratosthenesSieve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EulerPython/3. Largest prime factor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
