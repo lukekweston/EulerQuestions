@@ -1,10 +1,11 @@
 def primesList(maxPrime):
     primesBool = [0] * maxPrime
 
-    for i in range(2, int(maxPrime ** 0.5)):
+    for i in range(2, int(maxPrime ** 0.5) + 1):
         if (primesBool[i] == 0):
             for j in range(i * 2, maxPrime, i):
                 primesBool[j] = 1;
+
 
     primes = []
 

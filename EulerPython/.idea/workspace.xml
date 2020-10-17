@@ -11,16 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1. Multiples of 3 and 5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../EulerPython/1. Multiples of 3 and 5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2. Even Fibonacci numbers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../EulerPython/2. Even Fibonacci numbers.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7. 10001st prime.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="7. 10001st prime.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../EulerPython/7. 10001st prime.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -81,11 +71,41 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="8. Largest product in a series.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EulerPython/8. Largest product in a series.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9. Special Pythagorean triplet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EulerPython/9. Special Pythagorean triplet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10. Summation of primes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../EulerPython/10. Summation of primes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="EratosthenesSieve.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../EulerPython/Tools/EratosthenesSieve.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="85">
+              <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -114,12 +134,15 @@
         <option value="$PROJECT_DIR$/../EulerPython/Tools/SieveOfEratosthenes.py" />
         <option value="$PROJECT_DIR$/../EulerPython/SieveOfEratosthenes.py" />
         <option value="$PROJECT_DIR$/../EulerPython/Tools/hello.py" />
-        <option value="$PROJECT_DIR$/../EulerPython/Tools/EratosthenesSieve.py" />
         <option value="$PROJECT_DIR$/../EulerPython/3. Largest prime factor.py" />
         <option value="$PROJECT_DIR$/../EulerPython/4. Largest palindrome product.py" />
         <option value="$PROJECT_DIR$/../EulerPython/5. Smallest multiple.py" />
         <option value="$PROJECT_DIR$/../EulerPython/6. Sum square differnce.py" />
         <option value="$PROJECT_DIR$/../EulerPython/7. 10001st prime.py" />
+        <option value="$PROJECT_DIR$/../EulerPython/8. Largest product in a series.py" />
+        <option value="$PROJECT_DIR$/../EulerPython/9. Special Pythagorean triplet.py" />
+        <option value="$PROJECT_DIR$/../EulerPython/Tools/EratosthenesSieve.py" />
+        <option value="$PROJECT_DIR$/../EulerPython/10. Summation of primes.py" />
       </list>
     </option>
   </component>
@@ -184,8 +207,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.7. 10001st prime">
-    <configuration name="3. Largest prime factor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10. Summation of primes">
+    <configuration name="10. Summation of primes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -197,58 +220,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EulerPython/3. Largest prime factor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="4. Largest palindrome product" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EulerPython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Euler Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EulerPython/4. Largest palindrome product.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="5. Smallest multiple" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EulerPython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Euler Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EulerPython/5. Smallest multiple.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="6. Sum square differnce" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EulerPython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Euler Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EulerPython/6. Sum square differnce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EulerPython/10. Summation of primes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,20 +242,71 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="8. Largest product in a series" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EulerPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EulerPython/8. Largest product in a series.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="9. Special Pythagorean triplet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EulerPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EulerPython/9. Special Pythagorean triplet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="EratosthenesSieve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EulerPython/Tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EulerPython/Tools/EratosthenesSieve.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.3. Largest prime factor" />
-      <item index="1" class="java.lang.String" itemvalue="Python.4. Largest palindrome product" />
-      <item index="2" class="java.lang.String" itemvalue="Python.5. Smallest multiple" />
-      <item index="3" class="java.lang.String" itemvalue="Python.6. Sum square differnce" />
-      <item index="4" class="java.lang.String" itemvalue="Python.7. 10001st prime" />
+      <item index="0" class="java.lang.String" itemvalue="Python.7. 10001st prime" />
+      <item index="1" class="java.lang.String" itemvalue="Python.8. Largest product in a series" />
+      <item index="2" class="java.lang.String" itemvalue="Python.9. Special Pythagorean triplet" />
+      <item index="3" class="java.lang.String" itemvalue="Python.10. Summation of primes" />
+      <item index="4" class="java.lang.String" itemvalue="Python.EratosthenesSieve" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.7. 10001st prime" />
-        <item index="1" class="java.lang.String" itemvalue="Python.6. Sum square differnce" />
-        <item index="2" class="java.lang.String" itemvalue="Python.5. Smallest multiple" />
-        <item index="3" class="java.lang.String" itemvalue="Python.4. Largest palindrome product" />
-        <item index="4" class="java.lang.String" itemvalue="Python.3. Largest prime factor" />
+        <item index="0" class="java.lang.String" itemvalue="Python.10. Summation of primes" />
+        <item index="1" class="java.lang.String" itemvalue="Python.EratosthenesSieve" />
+        <item index="2" class="java.lang.String" itemvalue="Python.9. Special Pythagorean triplet" />
+        <item index="3" class="java.lang.String" itemvalue="Python.8. Largest product in a series" />
+        <item index="4" class="java.lang.String" itemvalue="Python.7. 10001st prime" />
       </list>
     </recent_temporary>
   </component>
@@ -398,14 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../EulerPython/Tools/EratosthenesSieve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../EulerPython/3. Largest prime factor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -442,6 +457,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="52" lean-forward="true" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EulerPython/8. Largest product in a series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EulerPython/9. Special Pythagorean triplet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EulerPython/Tools/EratosthenesSieve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EulerPython/10. Summation of primes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
           <folding />
         </state>
       </provider>
