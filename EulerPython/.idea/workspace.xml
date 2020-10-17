@@ -41,11 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4. Largest palindrome product.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4. Largest palindrome product.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../EulerPython/4. Largest palindrome product.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5. Smallest multiple.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../EulerPython/5. Smallest multiple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -87,6 +97,7 @@
         <option value="$PROJECT_DIR$/../EulerPython/Tools/EratosthenesSieve.py" />
         <option value="$PROJECT_DIR$/../EulerPython/3. Largest prime factor.py" />
         <option value="$PROJECT_DIR$/../EulerPython/4. Largest palindrome product.py" />
+        <option value="$PROJECT_DIR$/../EulerPython/5. Smallest multiple.py" />
       </list>
     </option>
   </component>
@@ -151,24 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4. Largest palindrome product">
-    <configuration name="2. Even Fibonacci numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Euler Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Even Fibonacci numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.5. Smallest multiple">
     <configuration name="3. Largest prime factor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,6 +193,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler Python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EulerPython/4. Largest palindrome product.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="5. Smallest multiple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EulerPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EulerPython/5. Smallest multiple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,19 +249,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.2. Even Fibonacci numbers" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SieveOfEratosthenes" />
-      <item index="2" class="java.lang.String" itemvalue="Python.3. Largest prime factor" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SieveOfEratosthenes (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.4. Largest palindrome product" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SieveOfEratosthenes" />
+      <item index="1" class="java.lang.String" itemvalue="Python.3. Largest prime factor" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SieveOfEratosthenes (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.4. Largest palindrome product" />
+      <item index="4" class="java.lang.String" itemvalue="Python.5. Smallest multiple" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.4. Largest palindrome product" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3. Largest prime factor" />
-        <item index="2" class="java.lang.String" itemvalue="Python.SieveOfEratosthenes (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SieveOfEratosthenes" />
-        <item index="4" class="java.lang.String" itemvalue="Python.2. Even Fibonacci numbers" />
+        <item index="0" class="java.lang.String" itemvalue="Python.5. Smallest multiple" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4. Largest palindrome product" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3. Largest prime factor" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SieveOfEratosthenes (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SieveOfEratosthenes" />
       </list>
     </recent_temporary>
   </component>
@@ -385,6 +396,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EulerPython/5. Smallest multiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
