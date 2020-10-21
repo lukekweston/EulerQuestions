@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603236619 source:c:\users\lkw19\documents\programming\eulerquestions\eulerc\tools\3. largest prime factor\main.c
+	<stdio.h>
+	<stdlib.h>
+
