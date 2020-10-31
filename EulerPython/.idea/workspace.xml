@@ -14,6 +14,7 @@
       <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/.idea/workspace.xml" afterPath="$USER_HOME$/PycharmProjects/Euler/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/Euler 18.py" afterPath="$USER_HOME$/PycharmProjects/Euler/Euler 18.py" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/Euler 19.py" afterPath="$USER_HOME$/PycharmProjects/Euler/Euler 19.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/Euler 22.py" afterPath="$USER_HOME$/PycharmProjects/Euler/Euler 22.py" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/Euler 48.py" afterPath="$USER_HOME$/PycharmProjects/Euler/Euler 48.py" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/Euler 5.py" afterPath="$USER_HOME$/PycharmProjects/Euler/Euler 5.py" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/Euler 67.py" afterPath="$USER_HOME$/PycharmProjects/Euler/Euler 67.py" />
@@ -30,26 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="16. Power digit sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16. Power digit sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="24" column="48" lean-forward="false" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="17. Number letter counts.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17. Number letter counts.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="18. Maximum path sum I.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/18. Maximum path sum I.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,11 +61,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="21. Amicable numbers.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="21. Amicable numbers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/21. Amicable numbers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" column="51" lean-forward="false" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="22. names.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/22. names.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="46447" lean-forward="false" selection-start-line="0" selection-start-column="46447" selection-end-line="0" selection-end-column="46447" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="22. Name Scores.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/22. Name Scores.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="23. Non-abundant sums.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/23. Non-abundant sums.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Euler 22.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/Euler/Euler 22.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -95,26 +116,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Euler 17.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/Euler/Euler 17.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Euler 18.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/Euler/Euler 18.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -191,6 +192,11 @@
         <option value="$PROJECT_DIR$/19. Counting sundays.py" />
         <option value="$PROJECT_DIR$/20. Factorial digit sum.py" />
         <option value="$PROJECT_DIR$/21. Amicable numbers.py" />
+        <option value="$PROJECT_DIR$/names.txt" />
+        <option value="$PROJECT_DIR$/22. names.txt" />
+        <option value="$USER_HOME$/PycharmProjects/Euler/Euler 22.py" />
+        <option value="$PROJECT_DIR$/22. Name Scores.py" />
+        <option value="$PROJECT_DIR$/23. Non-abundant sums.py" />
       </list>
     </option>
   </component>
@@ -265,41 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.21. Amicable numbers">
-    <configuration name="18. Maximum path sum I" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Euler Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18. Maximum path sum I.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="19. Counting sundays" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Euler Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19. Counting sundays.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.23. Non-abundant sums">
     <configuration name="20. Factorial digit sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -334,7 +306,41 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Euler 19" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="22. Name Scores" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22. Name Scores.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="23. Non-abundant sums" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23. Non-abundant sums.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Euler 22" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -346,25 +352,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Euler/Euler 19.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Euler/Euler 22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.18. Maximum path sum I" />
-      <item index="1" class="java.lang.String" itemvalue="Python.19. Counting sundays" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Euler 19" />
-      <item index="3" class="java.lang.String" itemvalue="Python.20. Factorial digit sum" />
-      <item index="4" class="java.lang.String" itemvalue="Python.21. Amicable numbers" />
+      <item index="0" class="java.lang.String" itemvalue="Python.20. Factorial digit sum" />
+      <item index="1" class="java.lang.String" itemvalue="Python.21. Amicable numbers" />
+      <item index="2" class="java.lang.String" itemvalue="Python.22. Name Scores" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Euler 22" />
+      <item index="4" class="java.lang.String" itemvalue="Python.23. Non-abundant sums" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.21. Amicable numbers" />
-        <item index="1" class="java.lang.String" itemvalue="Python.20. Factorial digit sum" />
-        <item index="2" class="java.lang.String" itemvalue="Python.19. Counting sundays" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Euler 19" />
-        <item index="4" class="java.lang.String" itemvalue="Python.18. Maximum path sum I" />
+        <item index="0" class="java.lang.String" itemvalue="Python.23. Non-abundant sums" />
+        <item index="1" class="java.lang.String" itemvalue="Python.22. Name Scores" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Euler 22" />
+        <item index="3" class="java.lang.String" itemvalue="Python.21. Amicable numbers" />
+        <item index="4" class="java.lang.String" itemvalue="Python.20. Factorial digit sum" />
       </list>
     </recent_temporary>
   </component>
@@ -417,46 +423,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4. Largest palindrome product.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6. Sum square differnce.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5. Smallest multiple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7. 10001st prime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="52" lean-forward="true" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8. Largest product in a series.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9. Special Pythagorean triplet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -783,10 +749,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/22. names.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="46447" lean-forward="false" selection-start-line="0" selection-start-column="46447" selection-end-line="0" selection-end-column="46447" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Euler/Euler 22.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Euler/Euler 22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22. Name Scores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/21. Amicable numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="51" lean-forward="false" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23. Non-abundant sums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
           <folding />
         </state>
       </provider>
