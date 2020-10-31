@@ -6,7 +6,6 @@ def collatzSequence(start):
     count = 0
     while(next != 1):
 
-
         if next in foundCounts:
             count += foundCounts[next]
             break
@@ -17,12 +16,12 @@ def collatzSequence(start):
             else:
                 next = next /2
 
+            collatzSequence(next)
+
 
     if not start in foundCounts:
         # print(start, count)
         foundCounts[start] = count
-
-
 
     return count +1
 
@@ -30,6 +29,7 @@ maxCollatzNumber, maxCollatzLength = 0, 0
 
 for i in range(1, 1000000):
     collatzChainLength = collatzSequence(i)
+    # print(i, collatzChainLength)
     if(collatzChainLength > maxCollatzLength):
         maxCollatzNumber, maxCollatzLength = i, collatzChainLength
         print(maxCollatzNumber, maxCollatzLength)
@@ -59,4 +59,6 @@ print(maxCollatzNumber, maxCollatzLength)
 #
 #
 # collatzsequence(1000000)
+
+
 
