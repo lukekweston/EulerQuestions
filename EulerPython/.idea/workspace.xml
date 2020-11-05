@@ -31,16 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="18. Maximum path sum I.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/18. Maximum path sum I.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="52" column="14" lean-forward="false" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="19. Counting sundays.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/19. Counting sundays.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,11 +91,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="24. Lexicographic permutations.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="24. Lexicographic permutations.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/24. Lexicographic permutations.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="24. 1000 digit Fibonacci Number.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/24. 1000 digit Fibonacci Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -198,6 +198,7 @@
         <option value="$PROJECT_DIR$/22. Name Scores.py" />
         <option value="$PROJECT_DIR$/23. Non-abundant sums.py" />
         <option value="$PROJECT_DIR$/24. Lexicographic permutations.py" />
+        <option value="$PROJECT_DIR$/24. 1000 digit Fibonacci Number.py" />
       </list>
     </option>
   </component>
@@ -272,24 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.24. Lexicographic permutations">
-    <configuration name="21. Amicable numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Euler Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/21. Amicable numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.24. 1000 digit Fibonacci Number">
     <configuration name="22. Name Scores" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,6 +304,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler Python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23. Non-abundant sums.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="24. 1000 digit Fibonacci Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24. 1000 digit Fibonacci Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,19 +360,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.21. Amicable numbers" />
-      <item index="1" class="java.lang.String" itemvalue="Python.22. Name Scores" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Euler 22" />
-      <item index="3" class="java.lang.String" itemvalue="Python.23. Non-abundant sums" />
-      <item index="4" class="java.lang.String" itemvalue="Python.24. Lexicographic permutations" />
+      <item index="0" class="java.lang.String" itemvalue="Python.22. Name Scores" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Euler 22" />
+      <item index="2" class="java.lang.String" itemvalue="Python.23. Non-abundant sums" />
+      <item index="3" class="java.lang.String" itemvalue="Python.24. Lexicographic permutations" />
+      <item index="4" class="java.lang.String" itemvalue="Python.24. 1000 digit Fibonacci Number" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.24. Lexicographic permutations" />
-        <item index="1" class="java.lang.String" itemvalue="Python.23. Non-abundant sums" />
-        <item index="2" class="java.lang.String" itemvalue="Python.22. Name Scores" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Euler 22" />
-        <item index="4" class="java.lang.String" itemvalue="Python.21. Amicable numbers" />
+        <item index="0" class="java.lang.String" itemvalue="Python.24. 1000 digit Fibonacci Number" />
+        <item index="1" class="java.lang.String" itemvalue="Python.24. Lexicographic permutations" />
+        <item index="2" class="java.lang.String" itemvalue="Python.23. Non-abundant sums" />
+        <item index="3" class="java.lang.String" itemvalue="Python.22. Name Scores" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Euler 22" />
       </list>
     </recent_temporary>
   </component>
@@ -424,14 +425,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/10. Summation of primes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/63. Powerful digit counts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -793,7 +786,15 @@
     <entry file="file://$PROJECT_DIR$/24. Lexicographic permutations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24. 1000 digit Fibonacci Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding />
         </state>
       </provider>
