@@ -15,6 +15,7 @@
       <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/Euler 18.py" afterPath="$USER_HOME$/PycharmProjects/Euler/Euler 18.py" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/Euler 19.py" afterPath="$USER_HOME$/PycharmProjects/Euler/Euler 19.py" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/Euler 22.py" afterPath="$USER_HOME$/PycharmProjects/Euler/Euler 22.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/Euler 26.py" afterPath="$USER_HOME$/PycharmProjects/Euler/Euler 26.py" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/Euler 48.py" afterPath="$USER_HOME$/PycharmProjects/Euler/Euler 48.py" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/Euler 5.py" afterPath="$USER_HOME$/PycharmProjects/Euler/Euler 5.py" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PycharmProjects/Euler/Euler 67.py" afterPath="$USER_HOME$/PycharmProjects/Euler/Euler 67.py" />
@@ -31,26 +32,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="19. Counting sundays.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/19. Counting sundays.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="112" lean-forward="false" selection-start-line="3" selection-start-column="112" selection-end-line="3" selection-end-column="112" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20. Factorial digit sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20. Factorial digit sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="21. Amicable numbers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/21. Amicable numbers.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,11 +82,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="24. 1000 digit Fibonacci Number.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/24. 1000 digit Fibonacci Number.py">
+      <file leaf-file-name="25. 1000 digit Fibonacci Number.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/25. 1000 digit Fibonacci Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="153">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="26. Reciptocal Cycles.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/26. Reciptocal Cycles.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="27. Quadratic Primes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/27. Quadratic Primes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3. Largest prime factor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3. Largest prime factor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -116,16 +127,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Euler 19.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/Euler/Euler 19.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -145,6 +146,7 @@
       <find>89 94 97 87</find>
       <find>87</find>
       <find>88</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -199,12 +201,15 @@
         <option value="$PROJECT_DIR$/23. Non-abundant sums.py" />
         <option value="$PROJECT_DIR$/24. Lexicographic permutations.py" />
         <option value="$PROJECT_DIR$/24. 1000 digit Fibonacci Number.py" />
+        <option value="$USER_HOME$/PycharmProjects/Euler/Euler 26.py" />
+        <option value="$PROJECT_DIR$/26. Reciptocal Cycles.py" />
+        <option value="$PROJECT_DIR$/27. Quadratic Primes.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-49" />
-    <option name="y" value="-18" />
+    <option name="x" value="-257" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -273,41 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.24. 1000 digit Fibonacci Number">
-    <configuration name="22. Name Scores" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Euler Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22. Name Scores.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="23. Non-abundant sums" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Euler Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23. Non-abundant sums.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.27. Quadratic Primes">
     <configuration name="24. 1000 digit Fibonacci Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,7 +291,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24. 1000 digit Fibonacci Number.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lkw19\Documents\Programming\EulerQuestions\EulerPython\25. 1000 digit Fibonacci Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,7 +313,41 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Euler 22" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="26. Reciptocal Cycles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26. Reciptocal Cycles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="27. Quadratic Primes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27. Quadratic Primes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Euler 26" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -354,25 +359,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Euler/Euler 22.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Euler/Euler 26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.22. Name Scores" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Euler 22" />
-      <item index="2" class="java.lang.String" itemvalue="Python.23. Non-abundant sums" />
-      <item index="3" class="java.lang.String" itemvalue="Python.24. Lexicographic permutations" />
-      <item index="4" class="java.lang.String" itemvalue="Python.24. 1000 digit Fibonacci Number" />
+      <item index="0" class="java.lang.String" itemvalue="Python.24. Lexicographic permutations" />
+      <item index="1" class="java.lang.String" itemvalue="Python.24. 1000 digit Fibonacci Number" />
+      <item index="2" class="java.lang.String" itemvalue="Python.26. Reciptocal Cycles" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Euler 26" />
+      <item index="4" class="java.lang.String" itemvalue="Python.27. Quadratic Primes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.24. 1000 digit Fibonacci Number" />
-        <item index="1" class="java.lang.String" itemvalue="Python.24. Lexicographic permutations" />
-        <item index="2" class="java.lang.String" itemvalue="Python.23. Non-abundant sums" />
-        <item index="3" class="java.lang.String" itemvalue="Python.22. Name Scores" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Euler 22" />
+        <item index="0" class="java.lang.String" itemvalue="Python.27. Quadratic Primes" />
+        <item index="1" class="java.lang.String" itemvalue="Python.26. Reciptocal Cycles" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Euler 26" />
+        <item index="3" class="java.lang.String" itemvalue="Python.24. 1000 digit Fibonacci Number" />
+        <item index="4" class="java.lang.String" itemvalue="Python.24. Lexicographic permutations" />
       </list>
     </recent_temporary>
   </component>
@@ -425,32 +430,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/63. Powerful digit counts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/EratosthenesSieve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/51. Prime digit replacements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#58#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1. Multiples of 3 and 5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -478,13 +457,6 @@
     <entry file="file://$PROJECT_DIR$/Tools/SieveOfEratosthenes.py" />
     <entry file="file://$PROJECT_DIR$/SieveOfEratosthenes.py" />
     <entry file="file://$PROJECT_DIR$/Tools/hello.py" />
-    <entry file="file://$PROJECT_DIR$/3. Largest prime factor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4. Largest palindrome product.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -791,10 +763,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/24. 1000 digit Fibonacci Number.py">
+    <entry file="file://$PROJECT_DIR$/25. 1000 digit Fibonacci Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="153">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Euler/Euler 26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="38" column="46" lean-forward="false" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Largest prime factor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26. Reciptocal Cycles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27. Quadratic Primes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
           <folding />
         </state>
       </provider>
